@@ -1,5 +1,5 @@
 {
-  "لینک": "https://s18.picofile.com/d/8435514368/bf674863-e7de-4c5a-abe0-7aa8ef892a90/20210527_161423.mp4",
-  "لینک فیلم": "https://s18.picofile.com/d/8435514368/bf674863-e7de-4c5a-abe0-7aa8ef892a90/20210527_161423.mp4",
+  "لینک": "https://up.iranblog.com/uploads/InShot-20210525-175108227.mp4",
+  "لینک فیلم": "https://up.iranblog.com/uploads/InShot-20210525-175108227.mp4",
   "متن": "برنامه Tibo Learn به زودی در مایکت ..."
 }
