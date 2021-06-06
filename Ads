@@ -1,5 +1,4 @@
 {
-  "لینک": "https://up.iranblog.com/uploads/InShot-20210525-175108227.mp4",
-  "لینک فیلم": "https://up.iranblog.com/uploads/InShot-20210525-175108227.mp4",
-  "متن": "برنامه Tibo Learn به زودی در مایکت ..."
+  "لینک": "https://uploadsmj.nasiwebhost.com/upload/Delaram___UpMusic_exported_1_384x218.mp4",
+  "لینک فیلم": "https://uploadsmj.nasiwebhost.com/upload/Delaram___UpMusic_exported_1_384x218.mp4": "رای ما آقای رئیسی 🤚📥"
 }
