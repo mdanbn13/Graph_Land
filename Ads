@@ -1,4 +1,5 @@
 {
   "لینک": "https://uploadsmj.nasiwebhost.com/upload/Delaram___UpMusic_exported_1_384x218.mp4",
-  "لینک فیلم": "https://uploadsmj.nasiwebhost.com/upload/Delaram___UpMusic_exported_1_384x218.mp4": "رای ما آقای رئیسی 🤚📥"
+  "لینک فیلم": "\nhttps://uploadsmj.nasiwebhost.com/upload/Delaram___UpMusic_exported_1_384x218.mp4",
+  "متن": "رای ما آقای رئیسی 🤚📥"
 }
